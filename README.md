@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gilberto Soares
 - 👀 I’m interested in the life
 - 🌱 I’m currently learning to live
-- 💞️ I’m looking to collaborate on programmation
+- 💞️ I’m looking to collaborate on software coding
 - 📫 How to reach me ... giban78@gmail.com
 
 <!---
